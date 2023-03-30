@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Asfak Ahmed</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 
+<br/>
+
+![](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/338310433_1929583017396765_2481607779176333780_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF3kxlu9TjH_hmd6OliiqsR7s6IPkwFLlnuzog-TAUuWZ-a9XPQfCaTG0dt7NGhsKN3P2804TTdv-KRc3ErUfFE&_nc_ohc=SQJX-hcvF7EAX_t5TLC&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfAo1Kplirk3rS3Abr09jn7xvVQ1dzYa7Dll9-Y86eWhPw&oe=6429E38B)
+
+<h1> About Me </h1>
+
+Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a knack for creating visually stunning websites. From crafting incredible user experiences to debugging pesky code issues, I'm totally immersed in the world of web development. Want to see some of my work? Check out my portfolio! Let's connect and create some amazing projects together. Drop me a message and let's chat about how I can help bring your website to life.
+
+<br/>
+<br/>
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfak00&label=Profile%20views&color=0e75b6&style=flat" alt="asfak00" /> </p>
 
 <br/>
