@@ -23,7 +23,7 @@ Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a kna
 <br/>
 <br/>
 
-- 🌱 I’m currently Practicing ** Projects **
+- 🌱 I’m currently Practicing **Projects**
 
 - 👯 My new website [Youtube Clone](https://youtube-3.netlify.app)
 
