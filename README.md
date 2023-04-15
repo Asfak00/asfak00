@@ -23,9 +23,9 @@ Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a kna
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **git & github**
+- 🌱 I’m currently Practicing ** Projects **
 
-- 👯 My new website [E-commerce website](https://asfak00.github.io/E-commerce-Website/)
+- 👯 My new website [Youtube Clone](https://youtube-3.netlify.app)
 
 - 🤝 Created a color picker application [Color picker application](https://asfak00.github.io/Color-Picker-Application/)
 
