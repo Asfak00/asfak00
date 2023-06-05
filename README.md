@@ -27,19 +27,15 @@ Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a kna
 <br/>
 <br/>
 
-- 🌱 I’m currently working on **Multi Vendor E-commerce website**
+- 🌱 I am currently **giving exams in my school**
 
-- 👯 My new website [Youtube Clone](https://youtube-3.netlify.app)
+- 👯 My new website [Multi Vendor E-commerce Website](https://eshooop.netlify.app)
 
-- 🤝 Created a color picker application [Color picker application](https://asfak00.github.io/Color-Picker-Application/)
-
-- 👨‍💻 My portfolio website [https://asfak00.github.io/Multiple-page-portfolio/](https://asfak00.github.io/Multiple-page-portfolio/)
-
-- 💬 Ask me about **HTML, CSS, Javascript,React**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **asfakahmed680@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I'm Always Working**
 
 <br/>
 <br/>
