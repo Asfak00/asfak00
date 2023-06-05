@@ -3,7 +3,7 @@
 
 <br/>
 
-![](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/338310433_1929583017396765_2481607779176333780_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF3kxlu9TjH_hmd6OliiqsR7s6IPkwFLlnuzog-TAUuWZ-a9XPQfCaTG0dt7NGhsKN3P2804TTdv-KRc3ErUfFE&_nc_ohc=TIENOXDunrwAX989QIX&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfBA60e38AehtvbaFoJ-Na7z07IN-V4n_Px2IRfsHPkVfg&oe=643FA44B)
+![A passionate front-end developer from Bangladesh](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/338310433_1929583017396765_2481607779176333780_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF3kxlu9TjH_hmd6OliiqsR7s6IPkwFLlnuzog-TAUuWZ-a9XPQfCaTG0dt7NGhsKN3P2804TTdv-KRc3ErUfFE&_nc_ohc=OmTAhvZyyNoAX94kXmj&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfCtRhfpg0XUWgSaZAMNzUltkXsRpveqC0AlVfUp_PKBlA&oe=6482E0CB)
 
 <h1> About Me </h1>
 
@@ -14,6 +14,9 @@ Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a kna
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfak00&label=Profile%20views&color=0e75b6&style=flat" alt="asfak00" /> </p>
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
 
 <br/>
 <br/>
@@ -75,3 +78,8 @@ Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a kna
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asfak00&" alt="asfak00" /></p>
+
+</br>
+</br>
+
+![GitHub metrics](https://metrics.lecoq.io/asfak00)  
