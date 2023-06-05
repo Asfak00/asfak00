@@ -3,7 +3,8 @@
 
 <br/>
 
-![A passionate front-end developer from Bangladesh](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/338310433_1929583017396765_2481607779176333780_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF3kxlu9TjH_hmd6OliiqsR7s6IPkwFLlnuzog-TAUuWZ-a9XPQfCaTG0dt7NGhsKN3P2804TTdv-KRc3ErUfFE&_nc_ohc=OmTAhvZyyNoAX94kXmj&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfCtRhfpg0XUWgSaZAMNzUltkXsRpveqC0AlVfUp_PKBlA&oe=6482E0CB)
+![Black Modern Personal LinkedIn Banner](https://github.com/Asfak00/asfak00/assets/108581106/a52fdd07-a694-4ac4-94e4-67700d320d13)
+
 
 <h1> About Me </h1>
 
