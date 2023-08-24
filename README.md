@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asfak Ahmed</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh</h3>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;Expert+Responsive+Designer;Progmming+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -59,13 +61,10 @@ Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a kna
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asfak00&show_icons=true&locale=en&layout=compact" alt="asfak00" /></p>
+<p align="left">
+  <a href="https://github.com/asfak00" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfak00&langs_count=10&title_color=a855f7&text_color=000&icon_color=000&bg_color=fffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -80,3 +79,8 @@ Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a kna
 </br>
 
 ![GitHub metrics](https://metrics.lecoq.io/asfak00)  
+
+</br>
+</br>
+
+<img src='https://svgshare.com/i/tFo.svg' title='' />
