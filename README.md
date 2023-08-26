@@ -10,7 +10,7 @@
 
 <h1> About Me </h1>
 
-Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a knack for creating visually stunning websites. From crafting incredible user experiences to debugging pesky code issues, I'm totally immersed in the world of web development. Want to see some of my work? Check out my portfolio! Let's connect and create some amazing projects together. Drop me a message and let's chat about how I can help bring your website to life.
+Hey there! I'm Asfak Ahmed, a self-proclaimed front end web developer with a knack for creating visually stunning websites. <b>I am winning 2nd runner's up prize on " Programming hero web application showcase contest 2".</b> From crafting incredible user experiences to debugging pesky code issues, I'm totally immersed in the world of web development. Want to see some of my work? Check out my portfolio! Let's connect and create some amazing projects together. Drop me a message and let's chat about how I can help bring your website to life.
 
 <br/>
 <br/>
