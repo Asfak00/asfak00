@@ -28,6 +28,7 @@ showcase contest 2".</b>
 
 <h1> My most viewed articles </h1>
 <a><b> * রিয়েক্ট রাউটার ডম ( react router dom ) </b></a> - https://asfakahmedsblog.hashnode.dev/react-router-dom <br/><br/>
+<a><b> * Dynamic Web Pages Without JavaScript? - Intro to HTMX </b></a> - [https://asfakahmedsblog.hashnode.dev/react-router-dom](https://asfakahmedsblog.hashnode.dev/dynamic-web-pages-without-javascript-intro-to-htmx) <br/><br/>
 <a><b>* Document Object Model ( DOM ) full explained</b></a> - https://asfakahmedsblog.hashnode.dev/document-object-model-dom-full-explained <br/><br/>
 <a><b>* Responsive ( all core concept ) part 1 - introduction</b></a> - https://asfakahmedsblog.hashnode.dev/responsive-all-core-concept-part-1-introduction <br/><br/>
 <a><b>* Responsive ( all core concept ) part 2 - Percentage vs Fixed width</b></a> - https://asfakahmedsblog.hashnode.dev/responsive-all-core-concept-part-2-percentage-vs-fixed-width
@@ -41,7 +42,7 @@ showcase contest 2".</b>
 <br/>
 <br/>
 
-- 🌱 I am currently **giving exams in my school**
+- 🌱 I am currently Learning **SASS**
 
 - 👯 My new website [Multi Vendor E-commerce Website](https://eshooop.netlify.app)
 
