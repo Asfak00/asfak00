@@ -10,7 +10,7 @@
 
 <h1> About Me </h1>
 
-I am Asfaq Ahmed. I am a front-end web developer. I have been working in this sector for the past 1+ years. I consider coding as the most
+I am Asfak Ahmed. I am a front-end web developer. I have been working in this sector for the past 1+ years. I consider coding as the most
 important thing in my life. I love to tackle complex problems. <b> I won 2nd runner's prize in " ProgrammingHeroweb application
 showcase contest 2".</b>
 
