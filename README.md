@@ -11,8 +11,8 @@
 <h1> About Me </h1>
 
 I am Asfak Ahmed. I am a front-end web developer. I have been working in this sector for the past 1+ years. I consider coding as the most
-important thing in my life. I love to tackle complex problems. <b> I won 2nd runner's prize in " ProgrammingHeroweb application
-showcase contest 2".</b>
+important thing in my life. I love to tackle complex problems. <b> I won the 2nd runner's prize in " Programming Hero web application
+showcase contest 2".</b> <b> And got 5th position by writing Technical Article which is organized by Programming Hero. </b>
 
 <br/>
 <br/>
