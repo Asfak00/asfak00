@@ -32,7 +32,10 @@ showcase contest 2".</b> And got 5th position by <b> writing Technical Article w
 <a><b>* Document Object Model ( DOM ) full explained</b></a> - https://asfakahmedsblog.hashnode.dev/document-object-model-dom-full-explained <br/><br/>
 <a><b>* Responsive ( all core concept ) part 1 - introduction</b></a> - https://asfakahmedsblog.hashnode.dev/responsive-all-core-concept-part-1-introduction <br/><br/>
 <a><b>* Responsive ( all core concept ) part 2 - Percentage vs Fixed width</b></a> - https://asfakahmedsblog.hashnode.dev/responsive-all-core-concept-part-2-percentage-vs-fixed-width
-
+<br/><br/>
+<a><b>* জুনিয়র ফ্রন্ট-ইন্ড ডেভেলপার সম্পর্কে কিছু জিনিস </b></a> - https://asfakahmedsblog.hashnode.dev/4kac4keb4kao4ka4kef4kawiocmqcnjecmsocmqocnjecmny3gpofgpqjgp43gpqeg4kah4keh4kat4keh4kay4kaq4ka4kawiocmuocmrucnjecmqucmsocnjecmlecnhydgppxgprgppvgp4eg4kac4ka4kao4ka4ka4
+<br/><br/>
+<a><b>* LocalStorage </b></a> - https://asfakahmedsblog.hashnode.dev/localstorage
 <br/>
 <br/>
 <br/>
@@ -42,7 +45,7 @@ showcase contest 2".</b> And got 5th position by <b> writing Technical Article w
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **Sass**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 Visit My Portfolio Website [https://asfakahmed.netlify.app/](https://asfakahmed.netlify.app/)
 
