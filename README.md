@@ -45,7 +45,7 @@ showcase contest 2".</b> And got 5th position by <b> writing Technical Article w
 <br/>
 <br/>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 Visit My Portfolio Website [https://asfakahmed.netlify.app/](https://asfakahmed.netlify.app/)
 
