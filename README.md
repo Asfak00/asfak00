@@ -126,8 +126,7 @@ showcase contest 2".</b> And got 5th position by <b> writing Technical Article w
 
 <h3 align="left">Animation :</h3>
 
-<p align="left">  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> </p>
-
+<p align="left">  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>  <a href="https://michalsnik.github.io/aos/" target="_blank" rel="noreferrer"> <img src="https://www.bram.us/wordpress/wp-content/uploads/2016/08/68747470733a2f2f7333322e706f7374696d672e6f72672f6b7476743539686f6c2f616f735f6865616465722e706e67.png" alt="AOS" width="50" height="30"/> </a> </p>
 
 <br/>
 
