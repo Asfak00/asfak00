@@ -19,7 +19,7 @@ showcase contest 2".</b> And got 5th position by <b> writing Technical Article w
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfak00&label=Profile%20views&color=0e75b6&style=flat" alt="asfak00" /> </p>
 
 ### My Dev Card
-<a href="https://app.daily.dev/asfak00"><img src="https://api.daily.dev/devcards/v2/JWTzDnbE79KJJTtzoIWwF.png?r=hgp" width="356" alt="Asfak Ahmed's Dev Card"/></a>
+<a href="https://app.daily.dev/asfak00"><img src="https://api.daily.dev/devcards/v2/JWTzDnbE79KJJTtzoIWwF.png?type=default&r=yj9" width="356" alt="Asfak Ahmed's Dev Card"/></a>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
