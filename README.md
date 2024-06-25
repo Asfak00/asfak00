@@ -30,6 +30,8 @@ showcase contest 2".</b> And got 5th position by <b> writing Technical Article w
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1> My most viewed articles </h1>
+<a><b>* 9 Features Make CSS Easier in 2024</b></a> - https://asfakahmedsblog.hashnode.dev/9-features-make-css-easier-in-2024 <br/><br/>
+<a><b>* Git Conflict</b></a> - https://asfakahmedsblog.hashnode.dev/git-conflict <br/><br/>
 <a><b> * রিয়েক্ট রাউটার ডম ( react router dom ) </b></a> - https://asfakahmedsblog.hashnode.dev/react-router-dom <br/><br/>
 <a><b> * Dynamic Web Pages Without JavaScript? - Intro to HTMX </b></a> - (https://asfakahmedsblog.hashnode.dev/dynamic-web-pages-without-javascript-intro-to-htmx) <br/><br/>
 <a><b>* Document Object Model ( DOM ) full explained</b></a> - https://asfakahmedsblog.hashnode.dev/document-object-model-dom-full-explained <br/><br/>
@@ -50,19 +52,16 @@ showcase contest 2".</b> And got 5th position by <b> writing Technical Article w
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 Visit My Portfolio Website [https://asfakahmed.netlify.app/](https://asfakahmed.netlify.app/)
 
 - 📝 I write articles on [https://asfakahmed.netlify.app/blogs](https://asfakahmed.netlify.app/blogs)
 
-- 💬 Ask me about **React or Javascript**
+- 💬 Ask me about **Javascript, React, Vue**
 
 - 📫 How to reach me **asfakahmed680@gmail.com**
 
 - 📄 My Resume [https://drive.google.com/file/d/15xR7Z1RezdfdtRZ-x7IE6odirrzvjV4L/view?usp=sharing](https://drive.google.com/file/d/15xR7Z1RezdfdtRZ-x7IE6odirrzvjV4L/view?usp=sharing)
-
-- ⚡ Main Fact **I'm Always Working**
 
 <br/>
 <br/>
