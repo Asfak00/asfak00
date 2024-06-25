@@ -10,9 +10,8 @@
 
 <h1> About Me </h1>
 
-I am Asfak Ahmed. I am a front-end web developer. I have been working in this sector for the past 1+ years. I consider coding as the most
-important thing in my life. I love to tackle complex problems. <b> I won the 2nd runner's prize in " Programming Hero web application
-showcase contest 2".</b> And got 5th position by <b> writing Technical Article which is organized by Programming Hero. </b>
+My name is Asfak Ahmed, and I am passionate about crafting exceptional user experiences as a Front-End Web Developer. With over 2 years of hands-on experience in the industry, I currently thrive in my role at Doplac CRM, where I contribute to building intuitive interfaces that drive user engagement and satisfaction. Previously, I had the opportunity to work remotely for Goatmove Inc., an esteemed American company. This experience not only sharpened my technical skills but also enriched my understanding of global standards in web development and the nuances of remote collaboration. Beyond my professional roles, I am the proud founder and CEO of ZenUI Library a project close to my heart. ZenUI Library stands as a testament to my commitment to providing robust UI components and website templates that empower developers and businesses alike to create stunning digital experiences effortlessly. In my toolkit, I wield expertise in HTML, CSS, JavaScript, and proficiently navigate various front-end frameworks like React and Vue. These technical competencies enable me to tackle complex challenges and deliver solutions that resonate with end-users and stakeholders alike.
+</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
