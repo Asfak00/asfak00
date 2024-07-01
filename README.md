@@ -29,6 +29,7 @@ My name is Asfak Ahmed, and I am passionate about crafting exceptional user expe
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1> My most viewed articles </h1>
+<a><b>* How to make a website in 2 minutes😲😳</b></a> - https://asfakahmedsblog.hashnode.dev/how-to-make-a-website-in-2-minutes <br/><br/>
 <a><b>* 9 Features Make CSS Easier in 2024</b></a> - https://asfakahmedsblog.hashnode.dev/9-features-make-css-easier-in-2024 <br/><br/>
 <a><b>* Git Conflict</b></a> - https://asfakahmedsblog.hashnode.dev/git-conflict <br/><br/>
 <a><b> * রিয়েক্ট রাউটার ডম ( react router dom ) </b></a> - https://asfakahmedsblog.hashnode.dev/react-router-dom <br/><br/>
