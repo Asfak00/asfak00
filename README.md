@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asfak Ahmed</h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;Expert+Responsive+Designer;Progmming+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;VueJS+Developer;Expert+Responsive+Designer;Progmming+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,6 +29,7 @@ My name is Asfak Ahmed, and I am passionate about crafting exceptional user expe
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1> My most viewed articles </h1>
+<a><b>* How to Use the JavaScript Selection API: Build a Rich Text Editor and Real-Time Element Detection </b></a> - https://www.freecodecamp.org/news/use-the-javascript-selection-api-to-build-a-rich-text-editor/ <br/><br/>
 <a><b>* How to make a website in 2 minutes😲😳</b></a> - https://asfakahmedsblog.hashnode.dev/how-to-make-a-website-in-2-minutes <br/><br/>
 <a><b>* 9 Features Make CSS Easier in 2024</b></a> - https://asfakahmedsblog.hashnode.dev/9-features-make-css-easier-in-2024 <br/><br/>
 <a><b>* Git Conflict</b></a> - https://asfakahmedsblog.hashnode.dev/git-conflict <br/><br/>
@@ -54,8 +55,10 @@ My name is Asfak Ahmed, and I am passionate about crafting exceptional user expe
 
 
 - 👨‍💻 Visit My Portfolio Website [https://asfakahmed.netlify.app/](https://asfakahmed.netlify.app/)
+  
+-  &nbsp;Visit **ZenUI Library** https://zenui.net/
 
-- 📝 I write articles on [https://asfakahmed.netlify.app/blogs](https://asfakahmed.netlify.app/blogs)
+- 📝 I write articles on https://www.freecodecamp.org/news/author/asfakahmed/
 
 - 💬 Ask me about **Javascript, React, Vue**
 
@@ -74,9 +77,8 @@ My name is Asfak Ahmed, and I am passionate about crafting exceptional user expe
 <a href="https://linkedin.com/in/asfakahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asfakahmed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21230715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21230715" height="30" width="40" /></a>
 <a href="https://fb.com/asfak00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asfak00" height="30" width="40" /></a>
-<a href="https://instagram.com/asfak_ahmed05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asfak_ahmed05" height="30" width="40" /></a>
-<a href="https://hashnode.com/@asfakahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@asfakahmed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asfakahmedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asfakahmedd" height="30" width="40" /></a>
+<a href="https://hashnode.com/@asfakahmed" target="blank"><img align="center" src="https://github.com/user-attachments/assets/b3e7cd02-2b45-49b4-8ccf-93fa6cec8247" alt="@asfakahmed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/programmingwithrahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asfakahmedd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/asfakahmed680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asfakahmed680" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asfak00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asfakahmed" height="30" width="40" /></a>
 </p>
