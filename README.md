@@ -10,7 +10,7 @@
 
 <h1> About Me </h1>
 
-My name is Asfak Ahmed, a Front-End Web Developer from Sylhet, Bangladesh often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences, with over two years of hands-on industry experience. Currently, I thrive in my role at Doplac CRM, where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Goatmove Inc.](https://goatmoves.com), an esteemed American company. This role not only honed my technical skills but also broadened my understanding of global standards in web development and the dynamics of remote collaboration.
+My name is Asfak Ahmed, a Front-End Web Developer from Sylhet, Bangladesh often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences, with over two years of hands-on industry experience. Currently, I thrive in my role at [Doplac CRM](https://doplac.com), where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Goatmove Inc.](https://goatmoves.com), an esteemed American company. This role not only honed my technical skills but also broadened my understanding of global standards in web development and the dynamics of remote collaboration.
 
 Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https://zenui.net), a project close to my heart that represents my commitment to empowering developers and businesses with high-quality UI components and website templates. I loved coding and I think I'm addicted in coding! 
 </b>
