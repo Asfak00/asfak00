@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asfak Ahmed</h1>
+<h1 align="center">Hi My Best Wishes👋, I'm Asfak Ahmed</h1>
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;VueJS+Developer;Expert+Responsive+Designer;Progmming+Enthusiast)](https://git.io/typing-svg)
@@ -10,7 +10,9 @@
 
 <h1> About Me </h1>
 
-My name is Asfak Ahmed, and I am passionate about crafting exceptional user experiences as a Front-End Web Developer. With over 2 years of hands-on experience in the industry, I currently thrive in my role at Doplac CRM, where I contribute to building intuitive interfaces that drive user engagement and satisfaction. Previously, I had the opportunity to work remotely for Goatmove Inc., an esteemed American company. This experience not only sharpened my technical skills but also enriched my understanding of global standards in web development and the nuances of remote collaboration. Beyond my professional roles, I am the proud founder and CEO of ZenUI Library a project close to my heart. ZenUI Library stands as a testament to my commitment to providing robust UI components and website templates that empower developers and businesses alike to create stunning digital experiences effortlessly. In my toolkit, I wield expertise in HTML, CSS, JavaScript, and proficiently navigate various front-end frameworks like React and Vue. These technical competencies enable me to tackle complex challenges and deliver solutions that resonate with end-users and stakeholders alike.
+My name is Asfak Ahmed, a Front-End Web Developer from Sylhet, Bangladesh often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences, with over two years of hands-on industry experience. Currently, I thrive in my role at Doplac CRM, where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Goatmove Inc.](https://goatmoves.com), an esteemed American company. This role not only honed my technical skills but also broadened my understanding of global standards in web development and the dynamics of remote collaboration.
+
+Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https://zenui.net), a project close to my heart that represents my commitment to empowering developers and businesses with high-quality UI components and website templates. I loved coding and I think I'm addicted in coding! 
 </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
