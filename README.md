@@ -66,7 +66,7 @@ Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https
 
 - 📫 How to reach me **asfakahmed680@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/15xR7Z1RezdfdtRZ-x7IE6odirrzvjV4L/view?usp=sharing](https://drive.google.com/file/d/15xR7Z1RezdfdtRZ-x7IE6odirrzvjV4L/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1Kao1c6N4DEiyw0AdSV9cFQCSf8NW1Yzh/view?usp=sharing](https://drive.google.com/file/d/1Kao1c6N4DEiyw0AdSV9cFQCSf8NW1Yzh/view?usp=sharing)
 
 <br/>
 <br/>
