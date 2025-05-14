@@ -10,9 +10,9 @@
 
 <h1> About Me </h1>
 
-My name is Asfak Ahmed, a Front-End Web Developer from Sylhet, Bangladesh often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences, with over two years of hands-on industry experience. Currently, I thrive in my role at [Doplac CRM](https://doplac.com), where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Goatmove Inc.](https://goatmoves.com), an esteemed American company. This role not only honed my technical skills but also broadened my understanding of global standards in web development and the dynamics of remote collaboration.
+My name is Asfak Ahmed, a Front-End Web Developer from Sylhet, Bangladesh, often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences, with over two years of hands-on industry experience. Currently, I thrive in my role at [WebMakersLTD](https://webmakersbd.com/), where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Doplac CRM](https://doplac.com), a complete solution for digital agencies.
 
-Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https://zenui.net), a project close to my heart that represents my commitment to empowering developers and businesses with high-quality UI components and website templates. I loved coding and I think I'm addicted in coding! 
+Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https://zenui.net), a project close to my heart that represents my commitment to empowering developers and businesses with high-quality UI components and website templates. I loved coding, and I think I'm addicted to coding! 
 </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -65,8 +65,6 @@ Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https
 - 💬 Ask me about **Javascript, React, Vue**
 
 - 📫 How to reach me **asfakahmed680@gmail.com**
-
-- 📄 My Resume [https://drive.google.com/file/d/1Kao1c6N4DEiyw0AdSV9cFQCSf8NW1Yzh/view?usp=sharing](https://drive.google.com/file/d/1Kao1c6N4DEiyw0AdSV9cFQCSf8NW1Yzh/view?usp=sharing)
 
 <br/>
 <br/>
