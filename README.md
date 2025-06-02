@@ -1,7 +1,7 @@
 <h1 align="center">Hi My Best Wishes👋, I'm Asfak Ahmed</h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;VueJS+Developer;Expert+Responsive+Designer;Progmming+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;VueJS+Developer;Expert+Responsive+Designer;NextJS+Developer;Progmming+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -114,7 +114,7 @@ Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png" alt="vue.js" width="40" height="40"/> </a> 
- <a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/82210087?s=200&v=4" alt="pinia" width="40" height="40"/> </a>
+ <a href="https://pinia.vuejs.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/82210087?s=200&v=4" alt="pinia" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" alt="nextjs" width="40" height="40"/> </a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://archive.org/download/github.com-mui-org-material-ui-pickers_-_2020-06-15_18-19-34/cover.jpg" alt="material-ui" width="40" height="40"/> </a>
 </p>
 
 </br>
@@ -134,7 +134,7 @@ Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https
 
 <h3 align="left">Animation :</h3>
 
-<p align="left">  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>  <a href="https://michalsnik.github.io/aos/" target="_blank" rel="noreferrer"> <img src="https://www.bram.us/wordpress/wp-content/uploads/2016/08/68747470733a2f2f7333322e706f7374696d672e6f72672f6b7476743539686f6c2f616f735f6865616465722e706e67.png" alt="AOS" width="50" height="30"/> </a> </p>
+<p align="left">  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>  <a href="https://michalsnik.github.io/aos/" target="_blank" rel="noreferrer"> <img src="https://www.bram.us/wordpress/wp-content/uploads/2016/08/68747470733a2f2f7333322e706f7374696d672e6f72672f6b7476743539686f6c2f616f735f6865616465722e706e67.png" alt="AOS" width="50" height="30"/> </a> <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/toyfight/65e1e07d27237c2bb829b9dc_GSAP-Meta-image.jpg?auto=format%2Ccompress&rect=0%2C0%2C2400%2C1260&w=2400&h=1260" alt="gsap" width="70" height="40"/> </a> </p>
 
 <br/>
 
