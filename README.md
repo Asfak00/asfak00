@@ -60,7 +60,7 @@ Beyond my professional work, I am the Founder & Creator of [ZenUI Library](https
   
 -  &nbsp;Visit **ZenUI Library** https://zenui.net/
 
-- 📝 I write articles on https://www.freecodecamp.org/news/author/asfakahmed/
+- 📝 My [Resume](https://drive.google.com/file/d/1XV-Y3TLXc0N0GeO_pu9epAxA9evQ7tRd/view?usp=sharing)
 
 - 💬 Ask me about **Javascript, React, Vue**
 
