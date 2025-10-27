@@ -30,20 +30,9 @@ Beyond my professional work, I am the Founder & Creator of [ZenUI Labs](https://
 
 ## My most viewed articles
 <a><b>* How to Use the JavaScript Selection API: Build a Rich Text Editor and Real-Time Element Detection </b></a> - https://www.freecodecamp.org/news/use-the-javascript-selection-api-to-build-a-rich-text-editor/ <br/><br/>
-<a><b>* How to make a website in 2 minutes😲😳</b></a> - https://asfakahmedsblog.hashnode.dev/how-to-make-a-website-in-2-minutes <br/><br/>
-<a><b>* 9 Features Make CSS Easier in 2024</b></a> - https://asfakahmedsblog.hashnode.dev/9-features-make-css-easier-in-2024 <br/><br/>
-<a><b>* Git Conflict</b></a> - https://asfakahmedsblog.hashnode.dev/git-conflict <br/><br/>
-<a><b> * রিয়েক্ট রাউটার ডম ( react router dom ) </b></a> - https://asfakahmedsblog.hashnode.dev/react-router-dom <br/><br/>
-<a><b> * Dynamic Web Pages Without JavaScript? - Intro to HTMX </b></a> - (https://asfakahmedsblog.hashnode.dev/dynamic-web-pages-without-javascript-intro-to-htmx) <br/><br/>
-<a><b>* Document Object Model ( DOM ) full explained</b></a> - https://asfakahmedsblog.hashnode.dev/document-object-model-dom-full-explained <br/><br/>
-<a><b>* Responsive ( all core concept ) part 1 - introduction</b></a> - https://asfakahmedsblog.hashnode.dev/responsive-all-core-concept-part-1-introduction <br/><br/>
-<a><b>* Responsive ( all core concept ) part 2 - Percentage vs Fixed width</b></a> - https://asfakahmedsblog.hashnode.dev/responsive-all-core-concept-part-2-percentage-vs-fixed-width
-<br/><br/>
-<a><b>* জুনিয়র ফ্রন্ট-ইন্ড ডেভেলপার সম্পর্কে কিছু জিনিস </b></a> - https://asfakahmedsblog.hashnode.dev/4kac4keb4kao4ka4kef4kawiocmqcnjecmsocmqocnjecmny3gpofgpqjgp43gpqeg4kah4keh4kat4keh4kay4kaq4ka4kawiocmuocmrucnjecmqucmsocnjecmlecnhydgppxgprgppvgp4eg4kac4ka4kao4ka4ka4
-<br/><br/>
-<a><b>* LocalStorage </b></a> - https://asfakahmedsblog.hashnode.dev/localstorage
-<br/>
-<br/>
+<a><b>* Why Front-End Developers Should Understand UI/UX Design</b></a> - https://www.freecodecamp.org/news/why-front-end-developers-should-understand-uiux-design/ <br/><br/>
+<a><b>* How to Write Better Names for Your Variables, Functions, and Classes – With Examples</b></a> - https://www.freecodecamp.org/news/how-to-write-better-variable-names/ <br/><br/>
+<a><b>* Understanding Vue.js ( emit ): A Complete Guide</b></a> - https://asfakahmedsblog.hashnode.dev/understanding-vuejs-emit-a-complete-guide <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
