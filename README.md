@@ -10,7 +10,7 @@
 
 # About Me
 
-My name is Asfak Ahmed, a Front-End Web Developer from Sylhet, Bangladesh, often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences, with over two years of hands-on industry experience. Currently, I thrive in my role at [WebMakersLTD](https://webmakersbd.com/), where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Doplac CRM](https://doplac.com), a complete solution for digital agencies.
+My name is Asfak Ahmed, a Front-End Web Developer from Sylhet, Bangladesh, often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences, with over 3 years of hands-on industry experience. Currently, I thrive in my role at [WebMakersLTD](https://webmakersbd.com/), where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Doplac CRM](https://doplac.com), a complete solution for digital agencies.
 
 Beyond my professional work, I am the Founder & Creator of [ZenUI Labs](https://zenui.net), an ecosystem dedicated to empowering developers, designers, and businesses with high-quality UI components, modern website templates, and powerful tools. ZenUI Labs is more than just a project - it reflects my passion for building accessible, scalable, and elegant solutions that accelerate development and creativity.
 </b>
