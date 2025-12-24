@@ -5,7 +5,7 @@
 
 <br/>
 
-![Black Modern Personal LinkedIn Banner](https://github.com/Asfak00/asfak00/assets/108581106/a52fdd07-a694-4ac4-94e4-67700d320d13)
+<img width="1584" height="396" alt="asfak github cover" src="https://github.com/user-attachments/assets/00574715-14dc-4b29-8f86-ba587488a549" />
 
 
 # About Me
