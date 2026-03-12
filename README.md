@@ -1,7 +1,7 @@
 <h1 align="center">Hi My Best Wishes👋, I'm Asfak Ahmed</h1>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=50&duration=3000&pause=1000&color=00e9ff&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Web+Developer;React+Developer;VueJS+Developer;Expert+Responsive+Designer;NextJS+Developer;Progmming+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=50&duration=3000&pause=1000&color=00e9ff&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Front-End+Engineer;React+Developer;VueJS+Developer;Expert+Responsive+Designer;NextJS+Developer;Progmming+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,9 +10,13 @@
 
 # About Me
 
-My name is Asfak Ahmed, a Front-End Web Developer from Sylhet, Bangladesh, often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences, with over 3 years of hands-on industry experience. Currently, I thrive in my role at [WebMakersLTD](https://webmakersbd.com/), where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Doplac CRM](https://doplac.com), a complete solution for digital agencies.
+My name is Asfak Ahmed, a Front-End Engineer from Sylhet, Bangladesh, often called the "Second London" for its vibrant culture. I am passionate about crafting exceptional user experiences and have over 3 years of hands-on industry experience. Currently, I thrive in my role at [WebMakersLTD](https://webmakersbd.com/), where I help create intuitive, engaging interfaces that drive user satisfaction. Previously, I had the privilege of working remotely with [Goatmoves Inc](https://goatmoves.com), a complete solution for digital agencies.
 
-Beyond my professional work, I am the Founder & Creator of [ZenUI Labs](https://zenui.net), an ecosystem dedicated to empowering developers, designers, and businesses with high-quality UI components, modern website templates, and powerful tools. ZenUI Labs is more than just a project - it reflects my passion for building accessible, scalable, and elegant solutions that accelerate development and creativity.
+Beyond my professional work, I dedicate my free time to building and nurturing community-driven projects that support developers and creators.
+
+I am the Founder & Creator of [ZenUI Labs](https://zenui.net), an ecosystem that empowers developers, designers, and businesses with high-quality UI components, modern website templates, and powerful development tools. I also founded [DevJobs Network](https://devjobsnetwork.com), a community initiative designed to help tech enthusiasts discover good career opportunities, share knowledge, and connect with the broader tech ecosystem.
+
+These represent my open, community-driven work — initiatives I genuinely enjoy building and growing during my time beyond professional responsibilities.
 </b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -38,11 +42,13 @@ Beyond my professional work, I am the Founder & Creator of [ZenUI Labs](https://
 
 - 👨‍💻 Visit My Portfolio Website [https://asfakahmed.netlify.app/](https://asfakahmed.netlify.app/)
   
--  &nbsp;Visit **ZenUI Labs** https://zenui.net/
+-  &nbsp;Explore **ZenUI Labs** https://zenui.net/
+  
+-  &nbsp;Visit **DevJobs Network** https://devjobsnetwork.com/
 
-- 📝 My [Resume](https://drive.google.com/file/d/1XV-Y3TLXc0N0GeO_pu9epAxA9evQ7tRd/view?usp=sharing)
+- 📝 My [Resume](https://drive.google.com/file/d/1oVhpMXXuJnzDOLE_45HFpb3wqqHoorRU/view?usp=sharing)
 
-- 💬 Ask me about **Javascript, React, Vue**
+- 💬 Ask me about **Javascript, React, NextJS, Vue**
 
 - 📫 How to reach me **asfakahmed680@gmail.com**
 
@@ -215,6 +221,11 @@ Beyond my professional work, I am the Founder & Creator of [ZenUI Labs](https://
 <img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/pacman.svg">
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/zenuilabs"> <img align="left" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0172b90570b1c21dab_kofi_logo.png" height="50" width="210" alt="asfak00" /></a></p>
-
-</br>
+<p><a href="https://ko-fi.com/zenuilabs"> <img align="left" src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0172b90570b1c21dab_kofi_logo.png" height="45" width="180" alt="asfak00" /></a></p>
+<br/>
+<br/>
+<br/>
+<p>
+  <a href="https://www.supportkori.com/asfak00"> <img align="left" src="https://i.ibb.co.com/8gCn40XS/supportkori-logo-1.png" height="50" width="160" alt="asfak00" />
+  </a>
+</p>
