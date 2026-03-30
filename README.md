@@ -5,7 +5,7 @@
 
 <br/>
 
-<img width="1584" height="396" alt="asfak github cover" src="https://github.com/user-attachments/assets/00574715-14dc-4b29-8f86-ba587488a549" />
+<img width="1584" height="396" alt="asfak github cover" src="https://github.com/user-attachments/assets/09b62a58-7b1f-4d39-a453-ade9ac4bb8a4" />
 
 
 # About Me
